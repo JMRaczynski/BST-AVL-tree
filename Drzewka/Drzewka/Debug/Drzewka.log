@@ -1,0 +1,4 @@
+﻿  Złożone-SD-wersja-ostateczna.cpp
+c:\users\mentosik\documents\studia\ii semestr\aids\zaawansowane struktury danych\drzewka\drzewka\złożone-sd-wersja-ostateczna.cpp(360): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\mentosik\documents\studia\ii semestr\aids\zaawansowane struktury danych\drzewka\drzewka\złożone-sd-wersja-ostateczna.cpp(134): warning C4715: "findbiggestnode”: niewszystkie ścieżki kodu zwracają wartość
+  Drzewka.vcxproj -> C:\Users\Mentosik\Documents\Studia\II semestr\AiDS\Zaawansowane struktury danych\Drzewka\Debug\Drzewka.exe
